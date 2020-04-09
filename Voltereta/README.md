@@ -1,0 +1,1 @@
+Para que el Game Object pueda dar una vuelta en el aire, este codigo se debe de implementar en la camara del FPS (es el codigo que ya teniamos para que el FPS pudiera moverse, solo que se le agregó la funcion de la voltereta en la parte de abajo).
